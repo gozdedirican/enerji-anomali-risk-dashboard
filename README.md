@@ -21,3 +21,7 @@ yönetici seviyesinde izlenmesi amacıyla Power BI kullanılarak geliştirilmiş
 - DAX
 - Zaman serisi analizi
 - Coğrafi görselleştirme
+
+## Kullanım
+- `enerji-anomali-dashboard....pbix` dosyasını indirin
+- Windows Power BI Desktop ile açın
